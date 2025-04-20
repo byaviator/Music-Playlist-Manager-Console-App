@@ -1,0 +1,14 @@
+C:\Users\Abu\source\repos\Music Playlist Manager Console App\Music Playlist Manager Console App\obj\Debug\net8.0\Music Playlist Manager Console App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abu\source\repos\Music Playlist Manager Console App\Music Playlist Manager Console App\obj\Debug\net8.0\Music Playlist Manager Console App.AssemblyInfoInputs.cache
+C:\Users\Abu\source\repos\Music Playlist Manager Console App\Music Playlist Manager Console App\obj\Debug\net8.0\Music Playlist Manager Console App.AssemblyInfo.cs
+C:\Users\Abu\source\repos\Music Playlist Manager Console App\Music Playlist Manager Console App\obj\Debug\net8.0\Music Playlist Manager Console App.csproj.CoreCompileInputs.cache
+C:\Users\Abu\source\repos\Music Playlist Manager Console App\Music Playlist Manager Console App\bin\Debug\net8.0\Music Playlist Manager Console App.exe
+C:\Users\Abu\source\repos\Music Playlist Manager Console App\Music Playlist Manager Console App\bin\Debug\net8.0\Music Playlist Manager Console App.deps.json
+C:\Users\Abu\source\repos\Music Playlist Manager Console App\Music Playlist Manager Console App\bin\Debug\net8.0\Music Playlist Manager Console App.runtimeconfig.json
+C:\Users\Abu\source\repos\Music Playlist Manager Console App\Music Playlist Manager Console App\bin\Debug\net8.0\Music Playlist Manager Console App.dll
+C:\Users\Abu\source\repos\Music Playlist Manager Console App\Music Playlist Manager Console App\bin\Debug\net8.0\Music Playlist Manager Console App.pdb
+C:\Users\Abu\source\repos\Music Playlist Manager Console App\Music Playlist Manager Console App\obj\Debug\net8.0\Music Playlist Manager Console App.dll
+C:\Users\Abu\source\repos\Music Playlist Manager Console App\Music Playlist Manager Console App\obj\Debug\net8.0\refint\Music Playlist Manager Console App.dll
+C:\Users\Abu\source\repos\Music Playlist Manager Console App\Music Playlist Manager Console App\obj\Debug\net8.0\Music Playlist Manager Console App.pdb
+C:\Users\Abu\source\repos\Music Playlist Manager Console App\Music Playlist Manager Console App\obj\Debug\net8.0\Music Playlist Manager Console App.genruntimeconfig.cache
+C:\Users\Abu\source\repos\Music Playlist Manager Console App\Music Playlist Manager Console App\obj\Debug\net8.0\ref\Music Playlist Manager Console App.dll

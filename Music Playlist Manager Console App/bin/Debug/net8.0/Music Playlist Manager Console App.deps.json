@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Music Playlist Manager Console App/1.0.0": {
+        "runtime": {
+          "Music Playlist Manager Console App.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Music Playlist Manager Console App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
